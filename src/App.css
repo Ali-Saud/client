@@ -1,5 +1,5 @@
-.remover-btn {
-    margin-right: 0.5rem;
+.remove-btn {
+    margin-right: 1rem;
 }
 .fade-enter {
 opacity : 0.01;
@@ -17,4 +17,9 @@ transition: opacity 1000ms ease-in;
 .fade-exit-active {
 opacity : 0.01;
 transition: opacity 1000ms ease-in;
+}
+
+
+.navbar-text {
+    color: #ffffff;
 }
